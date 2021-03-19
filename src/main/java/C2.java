@@ -1,4 +1,5 @@
-public class C1 {
+public class C2 {
 
     String s = "pewpew";
+
 }
